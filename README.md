@@ -1,3 +1,5 @@
+![img](shopify-logo-default-cmyk.png)
+
 # Shopify-2022-Data-Science-Intern-Challenge
 
 ## Question 1: Given some sample data, write a program to answer the following: click here to access the required data set
